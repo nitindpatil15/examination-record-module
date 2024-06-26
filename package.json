@@ -1,0 +1,18 @@
+{
+  "name": "examination-record-module",
+  "version": "1.0.0",
+  "description": "Examination record module",
+  "main": "index.js",
+  "scripts": {
+    "dev" : "node index.js"
+  },
+  "git-repository":"https://github.com/nitindpatil15/examination-record-module.git",
+  "keywords": [
+    "exam",
+    "record",
+    "student",
+    "college"
+  ],
+  "author": "NexGen Coders",
+  "license": "ISC"
+}

@@ -22,7 +22,7 @@ The Examination Record Module is designed to efficiently handle all aspects rela
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/examination-record-module.git
+    git clone https://github.com/nitindpatil15/examination-record-module.git
     cd examination-record-module
     ```
 
@@ -82,6 +82,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For questions or support, please reach out to:
 
-- **Your Name**
-- **Email**: your.email@example.com
-- **GitHub**: [yourusername](https://github.com/yourusername)
+- **Your Name** : NexGen Coders
+- **Email**: nitindpatil2002@gmail.com
+- **GitHub**: [nitindpatil15](https://github.com/nitindpatil15/examination-record-module.git)
